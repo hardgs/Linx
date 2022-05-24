@@ -11,7 +11,7 @@
     -Check IP and domin
     -Check Contect
     -Check And Get All Port Can Open
-# We need Protection
+# We need Financial support
 Good Bye Friend 
 Made Group Hard Games
     
