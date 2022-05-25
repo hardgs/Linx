@@ -4,10 +4,10 @@
     Possibilities 
         Get IP addres Your and ...
         Get Mac Addres Your
+        Get HTML or Txt IP or domin
     Linx is Good Tiny info log 
     linx For Linox And Unix
 # In The Future
-    -Get HTML or Txt IP or domin
     -Check IP and domin
     -Check Contect
     -Check And Get All Port Can Open
