@@ -1,3 +1,4 @@
+# Version 1.1 
 # Linx
     is info log , Written with bash scropt ( auther Group hard Games )
     Linx is info log ( Web And Internat )
